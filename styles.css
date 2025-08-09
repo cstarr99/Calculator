@@ -30,6 +30,7 @@ body {
   color: white;
   border-bottom: 2px solid white;
   padding-left: 10px;
+  overflow: hidden;
 }
 
 .btn-container {
